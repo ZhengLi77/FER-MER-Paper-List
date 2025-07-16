@@ -42,8 +42,8 @@
 ***
 
 ## 1.2 Micro Expression Recognition
-| Title | Literature Source | Year | Code | Comment |
-| :---: | :---: |  :---: | :---: | :---: |
+| Title | Literature Source | Year | Code |
+| :---: | :---: |  :---: | :---: |
 | MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11060844) | 2025 | Null |
 | MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/document/11045217) | 2025 | [code](https://github.com/CYF-cuber/MOL) |
 | Dynamic Stereotype Theory Induced Micro-expression Recognition with Oriented Deformation | [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Dynamic_Stereotype_Theory_Induced_Micro-expression_Recognition_with_Oriented_Deformation_CVPR_2025_paper.html) | 2025 | Null |
