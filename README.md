@@ -28,6 +28,7 @@
 | GLF-STAF: A Global-local-facial Spatio-temporal Attention Fusion Approach for Driver Emotion Recognition | [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10879048) | 2025 | Null |
 | Delving Into Quaternion Wavelet Transformer for Facial Expression Recognition in the Wild | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/10878301) | 2025 | [code](https://github.com/zy197997312/QWTR-for-FER) |
 | CSE-GResNet: A Simple and Highly Efficient Network for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10857661) | 2025 | Null |
+| JADFER: Exploring Spatial-Contextual Interaction With Joint Attention Dropping for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/document/10666158) | 2024 | null |
 | Facial Expression Recognition With Vision Transformer Using Fused Shifted Windows | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/10778323) | 2024 | null |
 | Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample | [International Journal of Computer Vision](https://link.springer.com/article/10.1007/s11263-024-02258-6) | 2024 | Null |
 | MaskFusionNet: A Dual-Stream Fusion Model With Masked Pre-Training Mechanism for rPPG Measurement | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/10583917) | 2024 | Null |
