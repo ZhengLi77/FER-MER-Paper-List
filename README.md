@@ -64,5 +64,3 @@
 | Inceptr: micro-expression recognition integrating inception-CBAM and vision transformer | [Multimedia Systems](https://link.springer.com/article/10.1007/s00530-023-01164-0) | 2023 | [code](https://github.com/HaoliangZhou/IncepTR) |
 | C3DBed: Facial micro-expression recognition with three-dimensional convolutional neural network embedding in transformer model | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0952197623004426) | 2023 | Null |
 | Block Division Convolutional Network With Implicit Deep Features Augmentation for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9676412) | 2022 | [code](https://github.com/MLDMXM2017/BDCNN) |
-
-***
