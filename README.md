@@ -2,6 +2,7 @@
 ## 1.1 Facial Information Processing Related
 | Title | Literature Source | Year | Code |
 | :---: | :---: |  :---: | :---: |
+| ExpLLM: Towards Chain of Thought for Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/10948346) | 2025 | Null |
 | Triple-branch Attention Network with Multiscale Facial Region Feature Selection for Facial Emotion Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008258) | 2025 | Null | 
 | FER-VMamba: A robust facial expression recognition framework with global compact attention and hierarchical feature interaction | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525004440) | 2025 | [code](https://github.com/SwjtuMa/FER-VMamba) |
 | PTH-Net: Dynamic Facial Expression Recognition Without Face Detection and Alignment | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/10770138) | 2025 | [code](https://github.com/lm495455/PTH-Net) |
