@@ -12,7 +12,6 @@
 | CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders | [ IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11003429) | 2025 | [code](https://github.com/yjy-97/CmdVIT) |
 | AFFAKT: A Hierarchical Optimal Transport Based Method for Affective Facial Knowledge Transfer in Video Deception Detection | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32123) | 2025 | null |
 | Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer | [WACV 2025](https://ieeexplore.ieee.org/abstract/document/10943457) | 2025 | [code](https://github.com/zengqunzhao/Exp-CLIP) |
-| MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition | [arxiv](https://arxiv.org/pdf/2505.05937) | 2025 | Null |
 | OUS: Bridging Scene Context and Facial Features to Overcome the Rigid Cognitive Problem | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32647) | 2025 | [code](https://github.com/Xinji-Mai/OUS) |
 | Lightweight Spatio-Temporal Convolutional Neural Network for Audio-Visual Emotion Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10982434) | 2025 | Null |
 | Facial Expression Recognition with an Efficient Mix Transformer for Affective Human-Robot Interaction | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10991960) | 2025 | Null |
