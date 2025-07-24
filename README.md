@@ -2,8 +2,8 @@
 ## 1.1 Facial Information Processing Related
 | Title | Literature Source | Year | Code |
 | :---: | :---: |  :---: | :---: |
-| Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM](https://arxiv.org/abs/2507.15765) | 2025 | [code](https://github.com/QIcita/HDF_DFER) |
-| Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond | [ACM MM](https://arxiv.org/abs/2507.15401) | 2025 | [code](https://github.com/Wenyuzhy/ORSANet-master) |
+| Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025 | [code](https://github.com/QIcita/HDF_DFER) |
+| Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond | [ACM MM 2025](https://arxiv.org/abs/2507.15401) | 2025 | [code](https://github.com/Wenyuzhy/ORSANet-master) |
 | ExpLLM: Towards Chain of Thought for Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/10948346) | 2025 | Null |
 | Triple-branch Attention Network with Multiscale Facial Region Feature Selection for Facial Emotion Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008258) | 2025 | Null | 
 | FER-VMamba: A robust facial expression recognition framework with global compact attention and hierarchical feature interaction | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525004440) | 2025 | [code](https://github.com/SwjtuMa/FER-VMamba) |
