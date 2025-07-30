@@ -50,6 +50,7 @@
 ## 1.2 Micro Expression Recognition
 | Title | Literature Source | Year | Code |
 | :---: | :---: |  :---: | :---: |
+| PME-MER: Efficient Position and Motion Encoder for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11098915) | 2025 | Null |
 | A micro-expression recognition algorithm fusing visual information with textual semantics | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S095741742502617X) | 2025 | Null |
 | MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11060844) | 2025 | Null |
 | MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/document/11045217) | 2025 | [code](https://github.com/CYF-cuber/MOL) |
