@@ -1,6 +1,5 @@
-* Literature Reviews
-  * Facial Information Processing Related
-  * Micro Expression Recognition
+* Facial Information Processing Related
+* Micro Expression Recognition
 
 # 1. Literature Reviews
 ## 1.1 Facial Information Processing Related
