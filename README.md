@@ -1,5 +1,5 @@
 * [Facial Information Processing Related](#FER)
-* [Micro Expression Recognition](MER)
+* [Micro Expression Recognition](#MER)
 
 # 1. Literature Reviews
 ## <a id="FER">1.1 Facial Information Processing Related</a>
