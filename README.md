@@ -2,6 +2,7 @@
 ## 1.1 Facial Information Processing Related
 | Title | Literature Source | Year | Code |
 | :---: | :---: |  :---: | :---: |
+| Multimodal Prompt Alignment for Facial Expression Recognition | [ICCV 2025](https://arxiv.org/abs/2506.21017) | 2025 | Null |
 | SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data | [ICCV 2025](https://arxiv.org/abs/2410.09865) | 2025 | Null |
 | Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025 | [code](https://github.com/QIcita/HDF_DFER) |
 | Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond | [ACM MM 2025](https://arxiv.org/abs/2507.15401) | 2025 | [code](https://github.com/Wenyuzhy/ORSANet-master) |
