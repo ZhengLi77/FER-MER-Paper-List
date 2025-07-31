@@ -1,8 +1,8 @@
-* Facial Information Processing Related
-* Micro Expression Recognition
+* [Facial Information Processing Related](#FER)
+* [Micro Expression Recognition](MER)
 
 # 1. Literature Reviews
-## 1.1 Facial Information Processing Related
+## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | Multimodal Prompt Alignment for Facial Expression Recognition | [ICCV 2025](https://arxiv.org/abs/2506.21017) | 2025-07 | Null |
@@ -52,7 +52,7 @@
 
 ***
 
-## 1.2 Micro Expression Recognition
+## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557) | 2025-07 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
