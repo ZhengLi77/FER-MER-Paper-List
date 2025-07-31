@@ -52,6 +52,7 @@
 ## 1.2 Micro Expression Recognition
 | Title | Literature Source | Year | Code |
 | :---: | :---: |  :---: | :---: |
+| FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557) | 2025 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
 | PME-MER: Efficient Position and Motion Encoder for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11098915) | 2025 | Null |
 | A micro-expression recognition algorithm fusing visual information with textual semantics | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S095741742502617X) | 2025 | Null |
 | MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11060844) | 2025 | Null |
