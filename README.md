@@ -5,6 +5,7 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| A gradient-based lightweight network automated design method for facial expression recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425027472) | 2025-07 | Null |
 | Multimodal Prompt Alignment for Facial Expression Recognition | [ICCV 2025](https://arxiv.org/abs/2506.21017) | 2025-07 | Null |
 | SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data | [ICCV 2025](https://arxiv.org/abs/2410.09865) | 2025-07 | Null |
 | Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025-07 | [code](https://github.com/QIcita/HDF_DFER) |
