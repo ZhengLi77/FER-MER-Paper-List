@@ -5,6 +5,7 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Text Prompt Region Decomposition for Effective Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/11125897) | 2025-08 | Null |
 | Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11080038) | 2025-07 | Null |
 | A gradient-based lightweight network automated design method for facial expression recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425027472) | 2025-07 | Null |
 | Multimodal Prompt Alignment for Facial Expression Recognition | [ICCV 2025](https://arxiv.org/abs/2506.21017) | 2025-07 | Null |
