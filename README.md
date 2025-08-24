@@ -7,13 +7,13 @@
 | :---: | :---: |  :---: | :---: |
 | FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning | [ACM MM 2025](https://arxiv.org/abs/2505.13419) | 2025-08 | [code](https://github.com/953206211/FEALLM) |
 | Action Unit Enhance Dynamic Facial Expression Recognition | [ACM MM 2025](https://arxiv.org/abs/2507.07678) | 2025-08 | [code](https://github.com/Cross-Innovation-Lab/AU-DFER) |
+| Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025-08 | [code](https://github.com/QIcita/HDF_DFER) |
+| Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond | [ACM MM 2025](https://arxiv.org/abs/2507.15401) | 2025-08 | [code](https://github.com/Wenyuzhy/ORSANet-master) |
 | Text Prompt Region Decomposition for Effective Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/11125897) | 2025-08 | Null |
 | Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11080038) | 2025-07 | Null |
 | A gradient-based lightweight network automated design method for facial expression recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425027472) | 2025-07 | Null |
 | Multimodal Prompt Alignment for Facial Expression Recognition | [ICCV 2025](https://arxiv.org/abs/2506.21017) | 2025-07 | Null |
 | SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data | [ICCV 2025](https://arxiv.org/abs/2410.09865) | 2025-07 | Null |
-| Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025-07 | [code](https://github.com/QIcita/HDF_DFER) |
-| Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond | [ACM MM 2025](https://arxiv.org/abs/2507.15401) | 2025-07 | [code](https://github.com/Wenyuzhy/ORSANet-master) |
 | Triple-branch Attention Network with Multiscale Facial Region Feature Selection for Facial Emotion Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008258) | 2025-07 | Null | 
 | Multi-Attribute Feature-aware Network for Facial Expression Recognition | [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/doi/pdf/10.1145/3735559) | 2025-07 | Null |
 | FER-VMamba: A robust facial expression recognition framework with global compact attention and hierarchical feature interaction | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525004440) | 2025-06 | [code](https://github.com/SwjtuMa/FER-VMamba) |
