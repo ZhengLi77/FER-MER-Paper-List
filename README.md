@@ -60,6 +60,7 @@
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | Macro-expression-guided micro-expression recognition: a motion similarity perspective | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008982) | 2025-08 | Null |
+| Rethinking Key-frame-based Micro-expression Recognition: A Robust and Accurate Framework Against Key-frame Errors | [ICCV 2025](https://arxiv.org/abs/2508.06640) | 2025-07 | [code](https://github.com/tony19980810/CausalNet) |
 | FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557) | 2025-07 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
 | PME-MER: Efficient Position and Motion Encoder for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11098915) | 2025-07 | Null |
 | A micro-expression recognition algorithm fusing visual information with textual semantics | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S095741742502617X) | 2025-07 | Null |
