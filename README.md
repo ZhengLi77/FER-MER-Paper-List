@@ -5,7 +5,8 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
-| Action Unit Enhance Dynamic Facial Expression Recognition | [ACM MM 2025] | 2025-08 | Null |
+| FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning | [ACM MM 2025](https://arxiv.org/abs/2505.13419) | 2025-08 | [code](https://github.com/953206211/FEALLM) |
+| Action Unit Enhance Dynamic Facial Expression Recognition | [ACM MM 2025](https://arxiv.org/abs/2507.07678) | 2025-08 | [code](https://github.com/Cross-Innovation-Lab/AU-DFER) |
 | Text Prompt Region Decomposition for Effective Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/11125897) | 2025-08 | Null |
 | Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11080038) | 2025-07 | Null |
 | A gradient-based lightweight network automated design method for facial expression recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425027472) | 2025-07 | Null |
