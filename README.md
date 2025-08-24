@@ -5,6 +5,7 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Action Unit Enhance Dynamic Facial Expression Recognition | [ACM MM 2025] | 2025-08 | Null |
 | Text Prompt Region Decomposition for Effective Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/11125897) | 2025-08 | Null |
 | Visual and Textual Prompts in VLLMs for Enhancing Emotion Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11080038) | 2025-07 | Null |
 | A gradient-based lightweight network automated design method for facial expression recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425027472) | 2025-07 | Null |
@@ -59,6 +60,9 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Multi-information Hierarchical Fusion Transformer with Local Alignment and Global Correlation for Micro-Expression Recognition | [ACM MM 2025] | 2025-08 | Null |
+| Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025] | 2025-08 | Null |
+| NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025] | 2025-08 | Null |
 | Macro-expression-guided micro-expression recognition: a motion similarity perspective | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008982) | 2025-08 | Null |
 | Rethinking Key-frame-based Micro-expression Recognition: A Robust and Accurate Framework Against Key-frame Errors | [ICCV 2025](https://arxiv.org/abs/2508.06640) | 2025-07 | [code](https://github.com/tony19980810/CausalNet) |
 | FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557) | 2025-07 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
