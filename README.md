@@ -1,5 +1,5 @@
-* [Facial Information Processing Related](#FER)
-* [Micro Expression Recognition](#MER)
+:laughing: :point_right: [Facial Information Processing Related](#FER)
+:blush: :point_right: [Micro Expression Recognition](#MER)
 
 # <a id="return">1. Literature Reviews</a>
 ## <a id="FER">1.1 Facial Information Processing Related</a>
@@ -55,7 +55,7 @@
 | FP-Age: Leveraging Face Parsing Attention for Facial Age Estimation in the Wild | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/9733166) | 2022- | [code](https://github.com/shamangary/SSR-Net/blob/master/data/TYY_MORPH_create_db.py) |
 | Learning Deep Global Multi-scale and Local Attention Features for Facial Expression Recognition in the Wild | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/abstract/document/9474949) | 2021- | [code](https://github.com/zengqunzhao/MA-Net?tab=readme-ov-file) |
 
-* [Return](#return)
+:point_up: [Return](#return)
 ***
 
 ## <a id="MER">1.2 Micro Expression Recognition</a>
@@ -87,4 +87,4 @@
 | C3DBed: Facial micro-expression recognition with three-dimensional convolutional neural network embedding in transformer model | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0952197623004426) | 2023- | Null |
 | Block Division Convolutional Network With Implicit Deep Features Augmentation for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9676412) | 2022- | [code](https://github.com/MLDMXM2017/BDCNN) |
 
-* [Return](#return)
+:point_up: [Return](#return)
