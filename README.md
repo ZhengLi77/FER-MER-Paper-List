@@ -23,6 +23,7 @@
 | CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders | [ IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11003429) | 2025-05 | [code](https://github.com/yjy-97/CmdVIT) |
 | Lightweight Spatio-Temporal Convolutional Neural Network for Audio-Visual Emotion Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10982434) | 2025-05 | Null |
 | Facial Expression Recognition with an Efficient Mix Transformer for Affective Human-Robot Interaction | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10991960) | 2025-05 | Null |
+| DDL: Dynamic Direction Learning for Semi-Supervised Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10955730) | 2025-04 | [code](https://github.com/AdventureStory/DDL/tree/master) |
 | AFFAKT: A Hierarchical Optimal Transport Based Method for Affective Facial Knowledge Transfer in Video Deception Detection | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32123) | 2025-04 | Null |
 | Navigating Label Ambiguity for Facial Expression Recognition in the Wild | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32476) | 2025-04 | Null |
 | OUS: Bridging Scene Context and Facial Features to Overcome the Rigid Cognitive Problem | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32647) | 2025-04 | [code](https://github.com/Xinji-Mai/OUS) |
@@ -33,6 +34,7 @@
 | Auxiliary action unit model for facial expression adversarial training | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325001530) | 2025-03 | Null |
 | Facial Action Unit Recognition Guided by Labeling Rules | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10930524) | 2025-03 | Null |
 | Prior knowledge-guided multi-information graph convolutional network for driver drowsiness detection | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425006505) | 2025-03 | Null |
+| Boosting Semi-Supervised Facial Attribute Recognition with Dynamic Threshold Pairs | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/10891827) | 2025 | [code](https://github.com/yihanxxu/DESP) |
 | Beyond Overfitting: Doubly Adaptive Dropout for Generalizable AU Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10904329) | 2025-02 | Null |
 | Progressive Masking Oriented Self-Taught Learning for Occluded Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10902013) | 2025-02 | Null |
 | Facial Expression Recognition with Heatmap Neighbor Contrastive Learning | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/10891424) | 2025-02 | Null |
