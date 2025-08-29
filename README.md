@@ -34,7 +34,7 @@
 | Auxiliary action unit model for facial expression adversarial training | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325001530) | 2025-03 | Null |
 | Facial Action Unit Recognition Guided by Labeling Rules | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10930524) | 2025-03 | Null |
 | Prior knowledge-guided multi-information graph convolutional network for driver drowsiness detection | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425006505) | 2025-03 | Null |
-| Boosting Semi-Supervised Facial Attribute Recognition with Dynamic Threshold Pairs | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/10891827) | 2025 | [code](https://github.com/yihanxxu/DESP) |
+| Boosting Semi-Supervised Facial Attribute Recognition with Dynamic Threshold Pairs | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/10891827) | 2025-02 | [code](https://github.com/yihanxxu/DESP) |
 | Beyond Overfitting: Doubly Adaptive Dropout for Generalizable AU Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10904329) | 2025-02 | Null |
 | Progressive Masking Oriented Self-Taught Learning for Occluded Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10902013) | 2025-02 | Null |
 | Facial Expression Recognition with Heatmap Neighbor Contrastive Learning | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/10891424) | 2025-02 | Null |
