@@ -9,7 +9,6 @@
 | Fusion of Granular-Ball Visual Spatial Representations for Enhanced Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4505.pdf) | 2025-08 | [code](https://github.com/Lsy235/CS-GBSBF) |
 | Towards Regularized Mixture of Predictions for Class-Imbalanced Semi-Supervised Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/239.pdf) | 2025-08 | [code](https://github.com/hangyu94/ReMoP) |
 | FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning | [ACM MM 2025](https://arxiv.org/abs/2505.13419) | 2025-08 | [code](https://github.com/953206211/FEALLM) |
-| FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning | [ACM MM 2025](https://arxiv.org/abs/2505.13419) | 2025-08 | [code](https://github.com/953206211/FEALLM) |
 | Action Unit Enhance Dynamic Facial Expression Recognition | [ACM MM 2025](https://arxiv.org/abs/2507.07678) | 2025-08 | [code](https://github.com/Cross-Innovation-Lab/AU-DFER) |
 | Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025-08 | [code](https://github.com/QIcita/HDF_DFER) |
 | Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond | [ACM MM 2025](https://arxiv.org/abs/2507.15401) | 2025-08 | [code](https://github.com/Wenyuzhy/ORSANet-master) |
