@@ -65,6 +65,7 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Micro-Expression Recognition via Fine-Grained Dynamic Perception | [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/doi/abs/10.1145/3765901) | 2025-09 | [code](https://github.com/CYF-cuber/FDP) |
 | Multi-information Hierarchical Fusion Transformer with Local Alignment and Global Correlation for Micro-Expression Recognition | [ACM MM 2025] | 2025-08 | Null |
 | Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025] | 2025-08 | [code](https://github.com/ChambersHarr/AC4AU?tab=readme-ov-file) |
 | NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025] | 2025-08 | Null |
