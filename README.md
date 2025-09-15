@@ -6,6 +6,7 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| A Dual Uncertainty-Aware Fusion Framework for Face Expression Recognition in the Wild | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425031823) | 2025-09 | Null |
 | Fusion of Granular-Ball Visual Spatial Representations for Enhanced Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4505.pdf) | 2025-08 | [code](https://github.com/Lsy235/CS-GBSBF) |
 | Towards Regularized Mixture of Predictions for Class-Imbalanced Semi-Supervised Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/239.pdf) | 2025-08 | [code](https://github.com/hangyu94/ReMoP) |
 | FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning | [ACM MM 2025](https://arxiv.org/abs/2505.13419) | 2025-08 | [code](https://github.com/953206211/FEALLM) |
