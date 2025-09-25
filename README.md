@@ -6,6 +6,7 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| An Enhanced Adaptive Confidence Margin for Semi-Supervised Facial Expression Recognition | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/abstract/document/11175546) | 2025-08 | [code](https://github.com/hangyu94/Ada-CM/tree/main/Journal) |
 | A Dual Uncertainty-Aware Fusion Framework for Face Expression Recognition in the Wild | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425031823) | 2025-09 | Null |
 | Fusion of Granular-Ball Visual Spatial Representations for Enhanced Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4505.pdf) | 2025-08 | [code](https://github.com/Lsy235/CS-GBSBF) |
 | Towards Regularized Mixture of Predictions for Class-Imbalanced Semi-Supervised Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/239.pdf) | 2025-08 | [code](https://github.com/hangyu94/ReMoP) |
