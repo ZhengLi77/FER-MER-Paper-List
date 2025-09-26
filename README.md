@@ -6,6 +6,7 @@
 ## <a id="FER">1.1 Facial Information Processing Related</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Knowledge-Enhanced Facial Expression Recognition With Emotional-to-Neutral Transformation | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/11146491) | 2025-09 | [code](https://github.com/hangyu94/KE2NT) |
 | DIRE: Enhancing Facial Expression Recognition through Domain-Invariant Representation Learning for Robust Generalization | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11175435) | 2025-09 | Null |
 | RUL: Region Uncertainty Learning for Robust Face Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11175499) | 2025-09 | Null |
 | An Enhanced Adaptive Confidence Margin for Semi-Supervised Facial Expression Recognition | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/abstract/document/11175546) | 2025-09 | [code](https://github.com/hangyu94/Ada-CM/tree/main/Journal) |
