@@ -1,9 +1,9 @@
-:satisfied: :point_right: [Facial Information Processing Related](#FER)
+:satisfied: :point_right: [Facial Expression Recognition](#FER)
 
 :blush: :point_right: [Micro Expression Recognition](#MER)
 
 # <a id="return">1. Paper Lists</a>
-## <a id="FER">1.1 Facial Information Processing Related</a>
+## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | Knowledge-Enhanced Facial Expression Recognition With Emotional-to-Neutral Transformation | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/11146491) | 2025-09 | [code](https://github.com/hangyu94/KE2NT) |
