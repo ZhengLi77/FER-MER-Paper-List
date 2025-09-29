@@ -6,6 +6,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Hyperbolic Self-Paced Multi-Expert Network for Cross-Domain Few-Shot Facial Expression Recognition | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/abstract/document/11180819) | 2025-09 | [code](https://github.com/cxtjl/HSM-Net) |
 | Knowledge-Enhanced Facial Expression Recognition With Emotional-to-Neutral Transformation | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/11146491) | 2025-09 | [code](https://github.com/hangyu94/KE2NT) |
 | DIRE: Enhancing Facial Expression Recognition through Domain-Invariant Representation Learning for Robust Generalization | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11175435) | 2025-09 | Null |
 | RUL: Region Uncertainty Learning for Robust Face Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11175499) | 2025-09 | Null |
