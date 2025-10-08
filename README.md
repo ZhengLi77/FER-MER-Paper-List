@@ -74,7 +74,7 @@
 | MPFNet: A Multi-Prior Fusion Network With a Progressive Training Strategy for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11192760) | 2025-10 | [code](https://github.com/Mac0504/MPFNet) |
 | Micro-Expression Recognition via Fine-Grained Dynamic Perception | [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/doi/abs/10.1145/3765901) | 2025-09 | [code](https://github.com/CYF-cuber/FDP) |
 | Multi-information Hierarchical Fusion Transformer with Local Alignment and Global Correlation for Micro-Expression Recognition | [ACM MM 2025] | 2025-08 | Null |
-| Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025] | 2025-08 | [code](https://github.com/ChambersHarr/AC4AU?tab=readme-ov-file) |
+| Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025](https://github.com/ChambersHarr/AC4AU/blob/main/RFT_Induced_MEA_with_Structured_Representation_Learning.pdf) | 2025-08 | [code](https://github.com/ChambersHarr/AC4AU?tab=readme-ov-file) |
 | NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025] | 2025-08 | Null |
 | Macro-expression-guided micro-expression recognition: a motion similarity perspective | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008982) | 2025-08 | Null |
 | Rethinking Key-frame-based Micro-expression Recognition: A Robust and Accurate Framework Against Key-frame Errors | [ICCV 2025](https://arxiv.org/abs/2508.06640) | 2025-07 | [code](https://github.com/tony19980810/CausalNet) |
