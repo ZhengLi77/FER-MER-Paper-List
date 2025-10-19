@@ -100,3 +100,7 @@
 | Block Division Convolutional Network With Implicit Deep Features Augmentation for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9676412) | 2022- | [code](https://github.com/MLDMXM2017/BDCNN) |
 
 :point_up: [Return](#return)
+
+## Questions and Suggestions
+
+If you have any questions or suggestions about this project, please contact me through email: `zheng.li@seu.edu.cn`.
