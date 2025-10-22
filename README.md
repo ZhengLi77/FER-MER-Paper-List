@@ -94,12 +94,12 @@
 | HTNet for micro-expression recognition | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231224009676?via%3Dihub) | 2024-08 | [code](https://github.com/wangzhifengharrison/HTNet) |
 | Micro-expression recognition based on a novel GCN-transformer cooperation model for IoT-eHealth | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424016300) | 2024-07 | Null |
 | Boosting Micro-expression Recognition via Self-expression Reconstruction and Memory Contrastive Learning | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10521757) | 2024-05 | [code](https://github.com/pakchoi-php/SRMCL) |
-| Spatial and Frequency-Based Feature Reconstruction for Cross-Database Micro-Expression Recognition | [ECAI](https://ebooks.iospress.nl/doi/10.3233/FAIA240538) | 2024- | Null |
+| Spatial and Frequency-Based Feature Reconstruction for Cross-Database Micro-Expression Recognition | [ECAI 2024](https://ebooks.iospress.nl/doi/10.3233/FAIA240538) | 2024- | Null |
 | Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition | [CVPR 2023](https://ieeexplore.ieee.org/document/10203585) | 2023- | Null |
 | Inceptr: micro-expression recognition integrating inception-CBAM and vision transformer | [Multimedia Systems](https://link.springer.com/article/10.1007/s00530-023-01164-0) | 2023- | [code](https://github.com/HaoliangZhou/IncepTR) |
 | C3DBed: Facial micro-expression recognition with three-dimensional convolutional neural network embedding in transformer model | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0952197623004426) | 2023- | Null |
 | Block Division Convolutional Network With Implicit Deep Features Augmentation for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9676412) | 2022- | [code](https://github.com/MLDMXM2017/BDCNN) |
-| How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset? | [ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_3) | 2022- | [code](https://github.com/liuyvchi/MiE-X) |
+| How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset? | [ECCV 2022](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_3) | 2022- | [code](https://github.com/liuyvchi/MiE-X) |
 
 :point_up: [Return](#return)
 
