@@ -74,9 +74,9 @@
 | :---: | :---: |  :---: | :---: |
 | MPFNet: A Multi-Prior Fusion Network With a Progressive Training Strategy for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11192760) | 2025-10 | [code](https://github.com/Mac0504/MPFNet) |
 | Micro-Expression Recognition via Fine-Grained Dynamic Perception | [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/doi/abs/10.1145/3765901) | 2025-09 | [code](https://github.com/CYF-cuber/FDP) |
-| Multi-information Hierarchical Fusion Transformer with Local Alignment and Global Correlation for Micro-Expression Recognition | [ACM MM 2025] | 2025-08 | Null |
-| Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025](https://github.com/ChambersHarr/AC4AU/blob/main/RFT_Induced_MEA_with_Structured_Representation_Learning.pdf) | 2025-08 | [code](https://github.com/ChambersHarr/AC4AU?tab=readme-ov-file) |
-| NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025] | 2025-08 | [code](https://github.com/real-ljt/NAMEdataset) |
+| Multi-information Hierarchical Fusion Transformer with Local Alignment and Global Correlation for Micro-Expression Recognition | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755860) | 2025-08 | Null |
+| Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755855) | 2025-08 | [code](https://github.com/ChambersHarr/AC4AU?tab=readme-ov-file) |
+| NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755095) | 2025-08 | [code](https://github.com/real-ljt/NAMEdataset) |
 | Macro-expression-guided micro-expression recognition: a motion similarity perspective | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008982) | 2025-08 | Null |
 | Rethinking Key-frame-based Micro-expression Recognition: A Robust and Accurate Framework Against Key-frame Errors | [ICCV 2025](https://arxiv.org/abs/2508.06640) | 2025-07 | [code](https://github.com/tony19980810/CausalNet) |
 | FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557) | 2025-07 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
@@ -97,7 +97,6 @@
 | Boosting Micro-expression Recognition via Self-expression Reconstruction and Memory Contrastive Learning | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10521757) | 2024-05 | [code](https://github.com/pakchoi-php/SRMCL) |
 | Spatial and Frequency-Based Feature Reconstruction for Cross-Database Micro-Expression Recognition | [ECAI 2024](https://ebooks.iospress.nl/doi/10.3233/FAIA240538) | 2024- | Null |
 | Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition | [CVPR 2023](https://ieeexplore.ieee.org/document/10203585) | 2023- | Null |
-| Inceptr: micro-expression recognition integrating inception-CBAM and vision transformer | [Multimedia Systems](https://link.springer.com/article/10.1007/s00530-023-01164-0) | 2023- | [code](https://github.com/HaoliangZhou/IncepTR) |
 | C3DBed: Facial micro-expression recognition with three-dimensional convolutional neural network embedding in transformer model | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0952197623004426) | 2023- | Null |
 | Block Division Convolutional Network With Implicit Deep Features Augmentation for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9676412) | 2022- | [code](https://github.com/MLDMXM2017/BDCNN) |
 | How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset? | [ECCV 2022](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_3) | 2022- | [code](https://github.com/liuyvchi/MiE-X) |
