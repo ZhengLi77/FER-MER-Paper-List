@@ -6,6 +6,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Towards Identity-Independent Facial Action Unit Detection: Integrating Decoupled 3D Geometry with Textural Features | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11207542) | 2025-10 | Null |
 | Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11207542) | 2025-10 | [code](https://github.com/MSA-LMC/S4D) |
 | Hyperbolic Self-Paced Multi-Expert Network for Cross-Domain Few-Shot Facial Expression Recognition | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/abstract/document/11180819) | 2025-09 | [code](https://github.com/cxtjl/HSM-Net) |
 | Knowledge-Enhanced Facial Expression Recognition With Emotional-to-Neutral Transformation | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/11146491) | 2025-09 | [code](https://github.com/hangyu94/KE2NT) |
