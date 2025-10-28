@@ -16,6 +16,7 @@
 | A Dual Uncertainty-Aware Fusion Framework for Face Expression Recognition in the Wild | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425031823) | 2025-09 | Null |
 | Fusion of Granular-Ball Visual Spatial Representations for Enhanced Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4505.pdf) | 2025-08 | [code](https://github.com/Lsy235/CS-GBSBF) |
 | Towards Regularized Mixture of Predictions for Class-Imbalanced Semi-Supervised Facial Expression Recognition | [IJCAI 2025](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/239.pdf) | 2025-08 | [code](https://github.com/hangyu94/ReMoP) |
+| LES-CLIP: A Lightweight Emotion-Sensitive Adaptation of CLIP for Precise Similar Emotion Discrimination | [ACM MM 2025](https://dl.acm.org/doi/abs/10.1145/3746027.3755637] | 2025-08 | Null |
 | FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning | [ACM MM 2025](https://arxiv.org/abs/2505.13419) | 2025-08 | [code](https://github.com/953206211/FEALLM) |
 | Action Unit Enhance Dynamic Facial Expression Recognition | [ACM MM 2025](https://arxiv.org/abs/2507.07678) | 2025-08 | [code](https://github.com/Cross-Innovation-Lab/AU-DFER) |
 | Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | [ACM MM 2025](https://arxiv.org/abs/2507.15765) | 2025-08 | [code](https://github.com/QIcita/HDF_DFER) |
