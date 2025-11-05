@@ -2,6 +2,8 @@
 
 :blush: :point_right: [Micro Expression Recognition](#MER)
 
+:mailbox: :point_right: [Connection](#connection)
+
 # <a id="return">1. Paper Lists</a>
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
@@ -109,6 +111,6 @@
 
 :point_up: [Return](#return)
 
-## Questions and Suggestions
+## <a id="connection">Questions and Suggestions</a>
 
 If you have any questions or suggestions about this project, please contact me through email: `zheng.li@seu.edu.cn`.
