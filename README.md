@@ -2,7 +2,7 @@
 
 :blush: :point_right: [Micro Expression Recognition](#MER)
 
-:mailbox: :point_right: [Connection](#connection)
+:email: :point_right: [Connection](#connection)
 
 # <a id="return">1. Paper Lists</a>
 ## <a id="FER">1.1 Facial Expression Recognition</a>
