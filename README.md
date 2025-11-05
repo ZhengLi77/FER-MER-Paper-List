@@ -6,6 +6,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Facial AU Recognition With Feature-Based AU Localization and Confidence-Based Relation Mining | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11224779) | 2025-11 | Null |
 | Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11223084) | 2025-10 | Null |
 | Appearance- and Relation-aware Parallel Graph Attention Fusion Network for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11223110) | 2025-10 | Null |
 | Towards Identity-Independent Facial Action Unit Detection: Integrating Decoupled 3D Geometry with Textural Features | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11207542) | 2025-10 | Null |
