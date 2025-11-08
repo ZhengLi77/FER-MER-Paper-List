@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| VLCA: Vision-Language Feature Enhancement with Cross-Attention Learning for Facial Expression Recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425039077) | 2025-11 | Null |
 | Facial AU Recognition With Feature-Based AU Localization and Confidence-Based Relation Mining | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11224779) | 2025-11 | Null |
 | Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11223084) | 2025-10 | Null |
 | Appearance- and Relation-aware Parallel Graph Attention Fusion Network for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11223110) | 2025-10 | Null |
