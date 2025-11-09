@@ -99,6 +99,7 @@
 | Micro-Expression Key Frame Inference | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/10910238) | 2025-03 | Null |
 | Facial 3D Regional Structural Motion Representation Using Lightweight Point Cloud Networks for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10856363) | 2025-01 | Null |
 | A Micro-Expression Recognition Network Based on Attention Mechanism and Motion Magnification | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/10772340) | 2024-12 | Null |
+| A Unique M-pattern for Micro-expression Spotting in Long Videos | [ICLR](https://openreview.net/forum?id=H396R79GiQ) | 2024-01 | Null |
 | Towards facial micro-expression detection and classification using modified multimodal ensemble learning approach | [Information Fusion](https://www.sciencedirect.com/science/article/abs/pii/S156625352400513X) | 2024-10 | Null |
 | MFDAN: Multi-level Flow-Driven Attention Network for Micro-Expression Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/10621611) | 2024-08 | Null |
 | HTNet for micro-expression recognition | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231224009676?via%3Dihub) | 2024-08 | [code](https://github.com/wangzhifengharrison/HTNet) |
