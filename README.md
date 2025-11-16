@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis | [AAAI 2026](https://arxiv.org/abs/2511.10254) | 2025-11 | [code](https://arxiv.org/abs/2511.10254) |
 | VLCA: Vision-Language Feature Enhancement with Cross-Attention Learning for Facial Expression Recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425039077) | 2025-11 | Null |
 | Facial AU Recognition With Feature-Based AU Localization and Confidence-Based Relation Mining | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11224779) | 2025-11 | Null |
 | Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11223084) | 2025-10 | Null |
@@ -99,7 +100,7 @@
 | Micro-Expression Key Frame Inference | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/10910238) | 2025-03 | Null |
 | Facial 3D Regional Structural Motion Representation Using Lightweight Point Cloud Networks for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/10856363) | 2025-01 | Null |
 | A Micro-Expression Recognition Network Based on Attention Mechanism and Motion Magnification | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/10772340) | 2024-12 | Null |
-| A Unique M-pattern for Micro-expression Spotting in Long Videos | [ICLR](https://openreview.net/forum?id=H396R79GiQ) | 2024-01 | Null |
+| A Unique M-pattern for Micro-expression Spotting in Long Videos | [ICLR 2024](https://openreview.net/forum?id=H396R79GiQ) | 2024-01 | Null |
 | Towards facial micro-expression detection and classification using modified multimodal ensemble learning approach | [Information Fusion](https://www.sciencedirect.com/science/article/abs/pii/S156625352400513X) | 2024-10 | Null |
 | MFDAN: Multi-level Flow-Driven Attention Network for Micro-Expression Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/10621611) | 2024-08 | Null |
 | HTNet for micro-expression recognition | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231224009676?via%3Dihub) | 2024-08 | [code](https://github.com/wangzhifengharrison/HTNet) |
