@@ -8,6 +8,8 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| MSDM: A Lightweight Multi-Scale Dynamic Mamba for Dynamic Facial Expression Recognition in Smart Classrooms | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11301922) | 2025-12 | Null |
+| Multi-Modal Prompt Learning for Facial Expression Recognition: Leveraging Emojis and Large Language Models | [Information Fusion](https://www.sciencedirect.com/science/article/abs/pii/S156625352501125X) | 2025-12 | Null |
 | A Perception CNN for Facial Expression Recognition | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11278538) | 2025-12 | [code](https://github.com/hellloxiaotian/PCNN) |
 | Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis | [AAAI 2026](https://arxiv.org/abs/2511.10254) | 2025-11 | [code](https://arxiv.org/abs/2511.10254) |
 | VLCA: Vision-Language Feature Enhancement with Cross-Attention Learning for Facial Expression Recognition | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425039077) | 2025-11 | Null |
@@ -82,8 +84,10 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Micro-expression Analysis Based on Self-Adaptive Pseudo-labeling and Residual Connected Channel Attention Mechanisms | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11301922) | 2025-12 | Null |
 | MPFNet: A Multi-Prior Fusion Network With a Progressive Training Strategy for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11192760) | 2025-10 | [code](https://github.com/Mac0504/MPFNet) |
 | Micro-Expression Recognition via Fine-Grained Dynamic Perception | [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/doi/abs/10.1145/3765901) | 2025-09 | [code](https://github.com/CYF-cuber/FDP) |
+| Boosting Micro-Expression Analysis via Prior-Guided Video-Level Regression | [ACM MM 2025](https://dl.acm.org/doi/abs/10.1145/3746027.3762026) | 2025-08 | [code](https://github.com/zizheng-guo/BoostingVRME) |
 | Multi-information Hierarchical Fusion Transformer with Local Alignment and Global Correlation for Micro-Expression Recognition | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755860) | 2025-08 | Null |
 | Regulatory Focus Theory Induced Micro-Expression Analysis with Structured Representation Learning | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755855) | 2025-08 | [code](https://github.com/ChambersHarr/AC4AU?tab=readme-ov-file) |
 | NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755095) | 2025-08 | [code](https://github.com/real-ljt/NAMEdataset) |
