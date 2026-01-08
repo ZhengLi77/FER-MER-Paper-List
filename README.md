@@ -84,6 +84,7 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| EEG- and Micro-Expression-Based Emotion Recognition and Consciousness Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11328769) | 2026-01 | Null |
 | Micro-expression Analysis Based on Self-Adaptive Pseudo-labeling and Residual Connected Channel Attention Mechanisms | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11301922) | 2025-12 | Null |
 | MPFNet: A Multi-Prior Fusion Network With a Progressive Training Strategy for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11192760) | 2025-10 | [code](https://github.com/Mac0504/MPFNet) |
 | Micro-Expression Recognition via Fine-Grained Dynamic Perception | [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/doi/abs/10.1145/3765901) | 2025-09 | [code](https://github.com/CYF-cuber/FDP) |
