@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Hierarchical Vision-Language Interaction for Facial Action Unit Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11397833) | 2026-02 | Null |
 | ICoCO: Interpretable Concept-Guided Context Optimization for Trustworthy Facial Expression Recognition in Mental Health Monitoring | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11386864) | 2026-02 | Null |
 | MSDM: A Lightweight Multi-Scale Dynamic Mamba for Dynamic Facial Expression Recognition in Smart Classrooms | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11301922) | 2025-12 | Null |
 | Multi-Modal Prompt Learning for Facial Expression Recognition: Leveraging Emojis and Large Language Models | [Information Fusion](https://www.sciencedirect.com/science/article/abs/pii/S156625352501125X) | 2025-12 | Null |
