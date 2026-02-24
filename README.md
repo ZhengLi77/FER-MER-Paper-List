@@ -8,6 +8,8 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Multi-pathway Learning and Competition: Introducing Brain FER Mechanisms to Deep Model | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11406889) | 2026-02 | Null |
+| Global-Local Disturbance Decoupling for Federated Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11408007) | 2026-02 | Null |
 | Hierarchical Vision-Language Interaction for Facial Action Unit Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11397833) | 2026-02 | Null |
 | ICoCO: Interpretable Concept-Guided Context Optimization for Trustworthy Facial Expression Recognition in Mental Health Monitoring | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11386864) | 2026-02 | Null |
 | MSDM: A Lightweight Multi-Scale Dynamic Mamba for Dynamic Facial Expression Recognition in Smart Classrooms | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11301922) | 2025-12 | Null |
