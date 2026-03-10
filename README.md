@@ -88,6 +88,7 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Evaluating and Correcting Human Annotation Bias in Dynamic Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11424978) | 2026-03 | [code](https://github.com/Cross-Innovation-Lab/GAMDSS) |
 | SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro-Expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326001640) | 2026-02 | [code](https://github.com/Healer-ML/MER) |
 | EEG- and Micro-Expression-Based Emotion Recognition and Consciousness Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11328769) | 2026-01 | Null |
 | LatentMag: Self-Supervised 3D Magnification for Micro Expressions via Latent Extrapolation | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/11278708) | 2025-12 | Null |
