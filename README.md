@@ -8,7 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
-| PEGCL: Pseudo-Entropy Guided Complementary Learning for Robust Facial Expression Recognition under Label Noise | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11426808) | 2026-02 | Null |
+| PEGCL: Pseudo-Entropy Guided Complementary Learning for Robust Facial Expression Recognition under Label Noise | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11426808) | 2026-03 | Null |
 | Multi-pathway Learning and Competition: Introducing Brain FER Mechanisms to Deep Model | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11406889) | 2026-02 | Null |
 | Global-Local Disturbance Decoupling for Federated Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11408007) | 2026-02 | Null |
 | Hierarchical Vision-Language Interaction for Facial Action Unit Detection | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11397833) | 2026-02 | Null |
