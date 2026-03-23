@@ -8,6 +8,8 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| PromptEmo: Learning Emotion with Bilateral Textual Prompts in Multi-Domain Open-set Scenarios | [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/38224) | 2026-03 | Null |
+| HKAFER: Achieve Visual Parameter-Efficient Fine-Tuning via Heterogeneous Kronecker Adaptation for Facial Expression Recognition | [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/42416) | 2026-03 | Null |
 | PEGCL: Pseudo-Entropy Guided Complementary Learning for Robust Facial Expression Recognition under Label Noise | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11426808) | 2026-03 | Null |
 | Multi-pathway Learning and Competition: Introducing Brain FER Mechanisms to Deep Model | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11406889) | 2026-02 | Null |
 | Global-Local Disturbance Decoupling for Federated Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11408007) | 2026-02 | Null |
