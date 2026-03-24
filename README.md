@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| MultiviewVLM: Unsupervised Multiview Contrastive Language-Image Joint Learning with Pseudo-Labeled Prompts Via Vision-Language Model for 3D/4D Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11447443) | 2026-03 | Null |
 | PromptEmo: Learning Emotion with Bilateral Textual Prompts in Multi-Domain Open-set Scenarios | [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/38224) | 2026-03 | Null |
 | HKAFER: Achieve Visual Parameter-Efficient Fine-Tuning via Heterogeneous Kronecker Adaptation for Facial Expression Recognition | [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/42416) | 2026-03 | Null |
 | PEGCL: Pseudo-Entropy Guided Complementary Learning for Robust Facial Expression Recognition under Label Noise | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11426808) | 2026-03 | Null |
@@ -91,6 +92,8 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Motion-Aware Representation Network for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11447442) | 2026-03 | Null |
+| Modeling Continuous Weak Temporal Trends for Video-based Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11454523) | 2026-03 | Null |
 | Exploring Spontaneous Facial Micro-expressions in On-road Driver Behavior | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11429066) | 2026-03 | Null |
 | Evaluating and Correcting Human Annotation Bias in Dynamic Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11424978) | 2026-03 | [code](https://github.com/Cross-Innovation-Lab/GAMDSS) |
 | SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro-Expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326001640) | 2026-02 | [code](https://github.com/Healer-ML/MER) |
