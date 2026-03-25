@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| FAME: Frequency and Motion Extrapolation for Robust Multimodal Facial Action Unit Detection | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326005601?ref=pdf_download&fr=RR-2&rr=9e1a51014b6b6f97) | 2026-03 | [code](https://github.com/flotaas/FAME_code) |
 | Weakly Supervised Learning for Facial Affective Behavior Analysis: a Review | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11455189) | 2026-03 | Null |
 | MultiviewVLM: Unsupervised Multiview Contrastive Language-Image Joint Learning with Pseudo-Labeled Prompts Via Vision-Language Model for 3D/4D Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11447443) | 2026-03 | Null |
 | PromptEmo: Learning Emotion with Bilateral Textual Prompts in Multi-Domain Open-set Scenarios | [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/38224) | 2026-03 | Null |
