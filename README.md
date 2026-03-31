@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Multi-granularity Facial Emotional Representation with Unlabeled Data and Textual Supervision | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11456304) | 2026-03 | [code](https://github.com/yuankaishen2001/MGFER) |
 | A Generative Multimodal Network for Facial Expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S003132032600484X) | 2026-03 | Null |
 | SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11455916) | 2026-03 | [code](https://github.com/KinopioIsAllIn/SpotFormer) |
 | FAME: Frequency and Motion Extrapolation for Robust Multimodal Facial Action Unit Detection | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326005601?ref=pdf_download&fr=RR-2&rr=9e1a51014b6b6f97) | 2026-03 | [code](https://github.com/flotaas/FAME_code) |
