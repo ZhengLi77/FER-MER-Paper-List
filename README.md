@@ -8,6 +8,7 @@
 ## <a id="FER">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11459140) | 2026-03 | Null |
 | Multi-granularity Facial Emotional Representation with Unlabeled Data and Textual Supervision | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11456304) | 2026-03 | [code](https://github.com/yuankaishen2001/MGFER) |
 | A Generative Multimodal Network for Facial Expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S003132032600484X) | 2026-03 | Null |
 | SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11455916) | 2026-03 | [code](https://github.com/KinopioIsAllIn/SpotFormer) |
@@ -97,6 +98,7 @@
 ## <a id="MER">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Enhanced Dynamic Representation via Gradient-Motion Modeling for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11458831) | 2026-03 | Null |
 | FPS: Frequency Prompt Synchronization for Micro-expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326005388) | 2026-03 | Null |
 | Motion-Aware Representation Network for Micro-Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11447442) | 2026-03 | Null |
 | Modeling Continuous Weak Temporal Trends for Video-based Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11454523) | 2026-03 | Null |
