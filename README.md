@@ -1,11 +1,11 @@
-:satisfied: :point_right: [Facial Expression Recognition](#FER)
+:satisfied: :point_right: [Facial Expression Recognition](#facial-expression-recognition)
 
-:blush: :point_right: [Micro Expression Recognition](#MER)
+:blush: :point_right: [Micro Expression Recognition](#micro-expression-recognition)
 
 :email: :point_right: [Questions and Suggestions](#connection)
 
 # <a id="return">1. Paper Lists</a>
-## <a id="FER">1.1 Facial Expression Recognition</a>
+## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11459140) | 2026-03 | Null |
@@ -95,7 +95,7 @@
 
 :point_up: [Return](#return)
 
-## <a id="MER">1.2 Micro Expression Recognition</a>
+## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | Enhanced Dynamic Representation via Gradient-Motion Modeling for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11458831) | 2026-03 | Null |
