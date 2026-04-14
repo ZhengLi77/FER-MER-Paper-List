@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Label Distribution Learning for Facial Expression Recognition based on Multi-Granularity Perception | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11479877) | 2026-04 | Null |
 | Facial Expression Recognition for Chinese Elderly Using Edge and Semantic Features Dual Path Network With Two-Step Transfer Learning | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11460201) | 2026-04 | Null |
 | Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11459140) | 2026-03 | Null |
 | Multi-granularity Facial Emotional Representation with Unlabeled Data and Textual Supervision | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11456304) | 2026-03 | [code](https://github.com/yuankaishen2001/MGFER) |
