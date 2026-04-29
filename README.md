@@ -101,6 +101,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| TGRF-Net: Text-Semantic Guided Region Focused Network for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11498589) | 2026-04 | Null |
 | Temporal–spatial cross-fusion for dynamic micro expression recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326006801) | 2026-04 | [code](https://github.com/Cross-Innovation-Lab/TSFmicro) |
 | Incremental Micro-Expression Recognition: A Benchmark | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11474728) | 2026-04 | [code](https://github.com/ZhengQinLai/IMER-benchmark) |
 | Advancing Micro-Expression Recognition: a Task-Specific Framework Integrating Frequency Analysis and Structural Embedding | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11466467) | 2026-04 | Null |
