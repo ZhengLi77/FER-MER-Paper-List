@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Rethinking the ambiguity in Facial Expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326008757) | 2026-05 | Null |
 | MMME: A spontaneous multi-modal micro-expression dataset enabling visual-physiological fusion | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525011005) | 2026-05 | [code](https://github.com/Mac0504/MMME) |
 | Context Effect Guided Multi-Source Awareness Framework for Dynamic Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11500469) | 2026-04 | Null |
 | Weakly Supervised Learning for Facial Affective Behavior Analysis: a Review | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/abstract/document/11455189) | 2026-04 | Null |
