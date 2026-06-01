@@ -8,6 +8,9 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| D^3FER: Dual Channel and Dual Branch Network for Robust Facial Expression Recognition under Dual Challenges | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_D3FER_Dual_Channel_and_Dual_Branch_Network_for_Robust_Facial_CVPR_2026_paper.html) | 2026-05 | [code](https://github.com/D3FER/D3FER) |
+| CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CLEX_Complementary_Label_Exchange_Learning_for_Noisy_Facial_Expression_Recognition_CVPR_2026_paper.html) | 2026-05 | Null |
+| Dynamic Label Noise Suppression with Optimal Teacher Pool for Facial Expression Recognition | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Dynamic_Label_Noise_Suppression_with_Optimal_Teacher_Pool_for_Facial_CVPR_2026_paper.html) | 2026-05 | Null |
 | TransMCR: Learning Muscle Contraction Relationship for Facial Expression Recognition with Texture Deformation Representation | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11526924) | 2026-05 | Null |
 | Rethinking the ambiguity in Facial Expression Recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326008757) | 2026-05 | Null |
 | MMME: A spontaneous multi-modal micro-expression dataset enabling visual-physiological fusion | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525011005) | 2026-05 | [code](https://github.com/Mac0504/MMME) |
@@ -105,6 +108,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Region-Aware Instance Consistency Learning for Micro-Expression Recognition | [CVPR 2026](Region-Aware Instance Consistency Learning for Micro-Expression Recognition) | 2026-05 | Null |
 | Video-Driven Micro-Expression Recognition Using Optical Flow and AU Fusion | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11503674) | 2026-05 | Null |
 | TGRF-Net: Text-Semantic Guided Region Focused Network for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11498589) | 2026-04 | Null |
 | Temporal–spatial cross-fusion for dynamic micro expression recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326006801) | 2026-04 | [code](https://github.com/Cross-Innovation-Lab/TSFmicro) |
