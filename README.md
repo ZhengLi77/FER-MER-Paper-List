@@ -108,7 +108,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
-| Region-Aware Instance Consistency Learning for Micro-Expression Recognition | [CVPR 2026](Region-Aware Instance Consistency Learning for Micro-Expression Recognition) | 2026-05 | Null |
+| Region-Aware Instance Consistency Learning for Micro-Expression Recognition | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_Region-Aware_Instance_Consistency_Learning_for_Micro-Expression_Recognition_CVPR_2026_paper.html) | 2026-05 | Null |
 | Video-Driven Micro-Expression Recognition Using Optical Flow and AU Fusion | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11503674) | 2026-05 | Null |
 | TGRF-Net: Text-Semantic Guided Region Focused Network for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11498589) | 2026-04 | Null |
 | Temporal–spatial cross-fusion for dynamic micro expression recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326006801) | 2026-04 | [code](https://github.com/Cross-Innovation-Lab/TSFmicro) |
