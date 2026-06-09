@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Exploring Basic Expression Representation for Compound Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11551362) | 2026-06 | Null |
 | D^3FER: Dual Channel and Dual Branch Network for Robust Facial Expression Recognition under Dual Challenges | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_D3FER_Dual_Channel_and_Dual_Branch_Network_for_Robust_Facial_CVPR_2026_paper.html) | 2026-05 | [code](https://github.com/D3FER/D3FER) |
 | CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CLEX_Complementary_Label_Exchange_Learning_for_Noisy_Facial_Expression_Recognition_CVPR_2026_paper.html) | 2026-05 | Null |
 | Dynamic Label Noise Suppression with Optimal Teacher Pool for Facial Expression Recognition | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Dynamic_Label_Noise_Suppression_with_Optimal_Teacher_Pool_for_Facial_CVPR_2026_paper.html) | 2026-05 | Null |
