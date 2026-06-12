@@ -108,6 +108,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| From Pixels to Semantics: Unified Facial Action Representation Learning for Micro-Expression Analysis | [ICLR 2026](https://iclr.cc/virtual/2026/poster/10006566)| 2026-05 | [code](https://github.com/KinopioIsAllIn/D-FACE) |
 | Region-Aware Instance Consistency Learning for Micro-Expression Recognition | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_Region-Aware_Instance_Consistency_Learning_for_Micro-Expression_Recognition_CVPR_2026_paper.html) | 2026-05 | Null |
 | MMME: A spontaneous multi-modal micro-expression dataset enabling visual-physiological fusion | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525011005) | 2026-05 | [code](https://github.com/Mac0504/MMME) |
 | Video-Driven Micro-Expression Recognition Using Optical Flow and AU Fusion | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11503674) | 2026-05 | Null |
