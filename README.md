@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Multi-directional Cube Graph Convolutional Fusion Network for Neonatal Pain Facial Action Unit Detection | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/document/11578101) | 2026-06 | [code](https://github.com/KK-akane/MCGCFN) |
 | Enhancing Intra-class Diversity Perception for Facial Emotion Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/11570049) | 2026-06 | Null |
 | Exploring Basic Expression Representation for Compound Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11551362) | 2026-06 | Null |
 | D^3FER: Dual Channel and Dual Branch Network for Robust Facial Expression Recognition under Dual Challenges | [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_D3FER_Dual_Channel_and_Dual_Branch_Network_for_Robust_Facial_CVPR_2026_paper.html) | 2026-05 | [code](https://github.com/D3FER/D3FER) |
