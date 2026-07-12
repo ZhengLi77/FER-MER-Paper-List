@@ -8,6 +8,8 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Compressed video-driven multimodal modeling and interaction for dynamic expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601316X?__cf_chl_tk=QlIUt6w2tr6xS9Qfq6EckpC.nGopyWh_JXYtmN4kg4c-1783840138-1.0.1.1-DQvtH1OO7hzw_1vP6S8TgFX5OUU2GzcT4kQlN0RTYkw) | 2026-06 | [code](https://github.com/JunLiangZ/CompressedVideo-DFER) |
+| Identity Suppression Awareness for Facial Expression Recognition via Dual-Path Learning | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253526004847) | 2026-07 | Null |
 | Multi-directional Cube Graph Convolutional Fusion Network for Neonatal Pain Facial Action Unit Detection | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/document/11578101) | 2026-06 | [code](https://github.com/KK-akane/MCGCFN) |
 | Enhancing Intra-class Diversity Perception for Facial Emotion Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/11570049) | 2026-06 | Null |
 | Exploring Basic Expression Representation for Compound Facial Expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11551362) | 2026-06 | Null |
@@ -110,6 +112,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Cross-Database Micro-Expression Recognition via Domain-Collaborative Disentanglement Network | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11595867) | 2026-07 | Null |
 | Cross-Domain Knowledge Transfer Learning With Macro-Expression Priors for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11595492) | 2026-07 | Null |
 | UGPT: Uncertain Graph Prompt Tuning for Micro-expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11592488) | 2026-07 | Null |
 | From Pixels to Semantics: Unified Facial Action Representation Learning for Micro-Expression Analysis | [ICLR 2026](https://iclr.cc/virtual/2026/poster/10006566)| 2026-05 | [code](https://github.com/KinopioIsAllIn/D-FACE) |
