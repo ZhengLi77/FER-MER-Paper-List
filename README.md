@@ -8,7 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
-| Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling | [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/abstract/document/11612833) | 2026-07 | [code](https://github.com/QIcita/SAFE DFER) |
+| Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling | [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/abstract/document/11612833) | 2026-07 | [code](https://github.com/QIcita/SAFE_DFER) |
 | Compressed video-driven multimodal modeling and interaction for dynamic expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601316X?__cf_chl_tk=QlIUt6w2tr6xS9Qfq6EckpC.nGopyWh_JXYtmN4kg4c-1783840138-1.0.1.1-DQvtH1OO7hzw_1vP6S8TgFX5OUU2GzcT4kQlN0RTYkw) | 2026-07 | [code](https://github.com/JunLiangZ/CompressedVideo-DFER) |
 | Identity Suppression Awareness for Facial Expression Recognition via Dual-Path Learning | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253526004847) | 2026-07 | Null |
 | Multi-directional Cube Graph Convolutional Fusion Network for Neonatal Pain Facial Action Unit Detection | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/document/11578101) | 2026-06 | [code](https://github.com/KK-akane/MCGCFN) |
