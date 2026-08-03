@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Fine-Grained Self-Paced Relational Preserving Network for Cross-Domain Few-Shot Facial Expression Recognition | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/abstract/document/11627167) | 2026-07 | Null |
 | Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling | [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/abstract/document/11612833) | 2026-07 | [code](https://github.com/QIcita/SAFE_DFER) |
 | Compressed video-driven multimodal modeling and interaction for dynamic expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601316X?__cf_chl_tk=QlIUt6w2tr6xS9Qfq6EckpC.nGopyWh_JXYtmN4kg4c-1783840138-1.0.1.1-DQvtH1OO7hzw_1vP6S8TgFX5OUU2GzcT4kQlN0RTYkw) | 2026-07 | [code](https://github.com/JunLiangZ/CompressedVideo-DFER) |
 | Identity Suppression Awareness for Facial Expression Recognition via Dual-Path Learning | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253526004847) | 2026-07 | Null |
@@ -113,6 +114,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| AU-Guided Neural Prototype Trees for Interpretable Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11629593) | 2026-07 | Null |
 | Cross-Database Micro-Expression Recognition via Domain-Collaborative Disentanglement Network | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11595867) | 2026-07 | Null |
 | Cross-Domain Knowledge Transfer Learning With Macro-Expression Priors for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11595492) | 2026-07 | Null |
 | UGPT: Uncertain Graph Prompt Tuning for Micro-expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11592488) | 2026-07 | Null |
