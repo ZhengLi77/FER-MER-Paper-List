@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| FER20E: An Extended Facial Expression Recognition Dataset with 20 Discrete Emotions | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11653556) | 2026-08 | [code](https://github.com/akstheme/FER20E) |
 | Fine-Grained Self-Paced Relational Preserving Network for Cross-Domain Few-Shot Facial Expression Recognition | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/abstract/document/11627167) | 2026-07 | Null |
 | Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling | [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/abstract/document/11612833) | 2026-07 | [code](https://github.com/QIcita/SAFE_DFER) |
 | Compressed video-driven multimodal modeling and interaction for dynamic expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601316X?__cf_chl_tk=QlIUt6w2tr6xS9Qfq6EckpC.nGopyWh_JXYtmN4kg4c-1783840138-1.0.1.1-DQvtH1OO7hzw_1vP6S8TgFX5OUU2GzcT4kQlN0RTYkw) | 2026-07 | [code](https://github.com/JunLiangZ/CompressedVideo-DFER) |
