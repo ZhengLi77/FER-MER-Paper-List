@@ -9,6 +9,9 @@
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
 | FER20E: An Extended Facial Expression Recognition Dataset with 20 Discrete Emotions | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11653556) | 2026-08 | [code](https://github.com/akstheme/FER20E) |
+| DLRM-FER: Self-evolving dual-loop neuro-symbolic learning via dynamic rule memory for explainable facial expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601453X) | 2026-08 | Null |
+| VCD-Net: Visual-Textual Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition | [International Journal of Computer Vision](https://link.springer.com/article/10.1007/s11263-026-02971-4) | 2026-07 | [code](https://github.com/cxtjl/VCD-Net) |
+| Boosting Representation Learning for High-Level Semantic Information in Facial Expression Recognition | [ACM Transactions on Multimedia Computing, Communications and Applications](https://dl.acm.org/doi/abs/10.1145/3833088) | 2026-07 | Null |
 | Fine-Grained Self-Paced Relational Preserving Network for Cross-Domain Few-Shot Facial Expression Recognition | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/abstract/document/11627167) | 2026-07 | Null |
 | Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling | [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/abstract/document/11612833) | 2026-07 | [code](https://github.com/QIcita/SAFE_DFER) |
 | Compressed video-driven multimodal modeling and interaction for dynamic expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601316X?__cf_chl_tk=QlIUt6w2tr6xS9Qfq6EckpC.nGopyWh_JXYtmN4kg4c-1783840138-1.0.1.1-DQvtH1OO7hzw_1vP6S8TgFX5OUU2GzcT4kQlN0RTYkw) | 2026-07 | [code](https://github.com/JunLiangZ/CompressedVideo-DFER) |
@@ -115,6 +118,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Enhancing Occlusion-robustness for Micro-expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11663315) | 2026-08 | Null |
 | AU-Guided Neural Prototype Trees for Interpretable Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11629593) | 2026-07 | Null |
 | Cross-Database Micro-Expression Recognition via Domain-Collaborative Disentanglement Network | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11595867) | 2026-07 | Null |
 | Cross-Domain Knowledge Transfer Learning With Macro-Expression Priors for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11595492) | 2026-07 | Null |
@@ -146,7 +150,7 @@
 | NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild | [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755095) | 2025-08 | [code](https://github.com/real-ljt/NAMEdataset) |
 | Macro-expression-guided micro-expression recognition: a motion similarity perspective | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325008982) | 2025-08 | Null |
 | Rethinking Key-frame-based Micro-expression Recognition: A Robust and Accurate Framework Against Key-frame Errors | [ICCV 2025](https://arxiv.org/abs/2508.06640) | 2025-07 | [code](https://github.com/tony19980810/CausalNet) |
-| FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557) | 2025-07 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
+| FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling | [ICCV 2025](https://arxiv.org/abs/2507.20557), [TAFFC 2026](https://ieeexplore.ieee.org/abstract/document/11652910) | 2025-07 | [code](https://github.com/MELABIPCAS/FED-PsyAU) |
 | PME-MER: Efficient Position and Motion Encoder for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11098915) | 2025-07 | Null |
 | A micro-expression recognition algorithm fusing visual information with textual semantics | [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S095741742502617X) | 2025-07 | Null |
 | MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11060844) | 2025-07 | [code](https://github.com/Liusff/MER-CLIP) |
