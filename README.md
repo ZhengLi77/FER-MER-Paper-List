@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Emotion Diffusion Classifier With Adaptive Margin Discrepancy Training for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11668687) | 2026-08 | Null |
 | FER20E: An Extended Facial Expression Recognition Dataset with 20 Discrete Emotions | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11653556) | 2026-08 | [code](https://github.com/akstheme/FER20E) |
 | DLRM-FER: Self-evolving dual-loop neuro-symbolic learning via dynamic rule memory for explainable facial expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601453X) | 2026-08 | Null |
 | VCD-Net: Visual-Textual Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition | [International Journal of Computer Vision](https://link.springer.com/article/10.1007/s11263-026-02971-4) | 2026-07 | [code](https://github.com/cxtjl/VCD-Net) |
