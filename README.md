@@ -8,7 +8,8 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
-| FER-FL: Robust federated learning for facial expression recognition in heterogeneous environments | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326015116) | 2025-08 | Null | 
+| ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning | [ACM MM 2026](https://arxiv.org/abs/2604.08990) | 2026-09 | Null | 
+| FER-FL: Robust federated learning for facial expression recognition in heterogeneous environments | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326015116) | 2026-08 | Null | 
 | Emotion Diffusion Classifier With Adaptive Margin Discrepancy Training for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11668687) | 2026-08 | Null |
 | FER20E: An Extended Facial Expression Recognition Dataset with 20 Discrete Emotions | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11653556) | 2026-08 | [code](https://github.com/akstheme/FER20E) |
 | DLRM-FER: Self-evolving dual-loop neuro-symbolic learning via dynamic rule memory for explainable facial expression recognition | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512601453X) | 2026-08 | Null |
