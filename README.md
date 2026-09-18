@@ -121,6 +121,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| A Unified Framework for Macro and Micro Expression Recognition Using Dynamic Facial Graph Modeling and Visual Stream | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11694323) | 2026-09 | Null |
 | Enhancing Occlusion-robustness for Micro-expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11663315) | 2026-08 | Null |
 | AU-Guided Neural Prototype Trees for Interpretable Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11629593) | 2026-07 | Null |
 | Cross-Database Micro-Expression Recognition via Domain-Collaborative Disentanglement Network | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11595867) | 2026-07 | Null |
