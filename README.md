@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| AUAnimation: Semantically-Controllable Facial Animation From a Static Image | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11702529) | 2026-09 | Null |
 | ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning | [ACM MM 2026](https://arxiv.org/abs/2604.08990) | 2026-09 | Null | 
 | FER-FL: Robust federated learning for facial expression recognition in heterogeneous environments | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326015116) | 2026-08 | Null | 
 | Emotion Diffusion Classifier With Adaptive Margin Discrepancy Training for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11668687) | 2026-08 | Null |
@@ -121,6 +122,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| R2-MER: Micro-Expression Recognition Via Region-Aware Reconstruction and Modality-Aware Fusion | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11702790) | 2026-09 | Null |
 | A Unified Framework for Macro and Micro Expression Recognition Using Dynamic Facial Graph Modeling and Visual Stream | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11694323) | 2026-09 | Null |
 | Enhancing Occlusion-robustness for Micro-expression Recognition | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11663315) | 2026-08 | Null |
 | AU-Guided Neural Prototype Trees for Interpretable Micro-Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11629593) | 2026-07 | Null |
