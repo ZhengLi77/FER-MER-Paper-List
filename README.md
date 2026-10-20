@@ -8,6 +8,7 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Context Aware Multi-cue Model for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11740140) | 2026-10 | Null |
 | From Uncertainty to Certainty: A Robust Dynamic Facial Expression Recognition Framework via Dynamic Uncertainty Constraint Modeling | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11698660) | 2026-09 | Null |
 | AUAnimation: Semantically-Controllable Facial Animation From a Static Image | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11702529) | 2026-09 | Null |
 | ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning | [ACM MM 2026](https://arxiv.org/abs/2604.08990) | 2026-09 | Null | 
