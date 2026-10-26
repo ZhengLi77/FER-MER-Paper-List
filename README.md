@@ -124,6 +124,7 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Normalization, Fusion, and Decoupling: A Multi-feature Cross-Fusion Framework for Domain-Generalized Micro-Expression Action Unit Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11735232) | 2026-10 | Null |
 | Revisiting the Volumetric Data of 4DME: Compression, Extension and Benchmarking for Micro-expression Analysis | [ECCV 2026](https://link.springer.com/chapter/10.1007/978-3-032-37553-7_19) | 2026-09 | [code](https://github.com/1nO1SB/4DMEplus) |
 | R2-MER: Micro-Expression Recognition Via Region-Aware Reconstruction and Modality-Aware Fusion | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11702790) | 2026-09 | Null |
 | A Unified Framework for Macro and Micro Expression Recognition Using Dynamic Facial Graph Modeling and Visual Stream | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11694323) | 2026-09 | Null |
