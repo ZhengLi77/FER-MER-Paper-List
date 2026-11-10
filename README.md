@@ -8,12 +8,15 @@
 ## <a id="facial-expression-recognition">1.1 Facial Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+| Motion-Phase Collaborative Learning for Dynamic Facial Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3836273) | 2026-11 | Null | 
+| ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3835816) | 2026-11 | Null | 
+| Adaptive Semantic Topological Alignment for Class-Incremental Facial Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3836307) | 2026-11 | Null |
+| HS-CLIP: Hierarchy-aligned Stage-wise CLIP Adaptation for Dynamic Facial Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3835444) | 2026-11 | Null |
 | Event-Based Facial Expression Recognition via Knowledge-Enhanced Hypergraph Computation | [International Journal of Computer Vision](https://link.springer.com/article/10.1007/s11263-026-03103-8) | 2026-10 | Null |
 | Learning to prompt with semantic priors and memory retrieval for semi-supervised facial expression recognition | [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326022028) | 2026-10 | Null |
 | Context Aware Multi-cue Model for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11740140) | 2026-10 | Null |
 | From Uncertainty to Certainty: A Robust Dynamic Facial Expression Recognition Framework via Dynamic Uncertainty Constraint Modeling | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11698660) | 2026-09 | Null |
 | AUAnimation: Semantically-Controllable Facial Animation From a Static Image | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11702529) | 2026-09 | Null |
-| ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning | [ACM MM 2026](https://arxiv.org/abs/2604.08990) | 2026-09 | Null | 
 | FER-FL: Robust federated learning for facial expression recognition in heterogeneous environments | [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326015116) | 2026-08 | Null | 
 | Emotion Diffusion Classifier With Adaptive Margin Discrepancy Training for Facial Expression Recognition | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11668687) | 2026-08 | Null |
 | FER20E: An Extended Facial Expression Recognition Dataset with 20 Discrete Emotions | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/11653556) | 2026-08 | [code](https://github.com/akstheme/FER20E) |
@@ -126,6 +129,10 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
+
+| Where and How Well: Reliability-Guided Dual-View Displacement Learning for Micro-Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3835519) | 2026-11 | Null |
+| Point Cloud based Low-Rank Micro-Dynamic Modeling for 4D Micro-Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3836029) | 2026-11 | Null |
+| AV-SyncME: Physics-Driven Audio-Visual Gating for In-the-Wild Micro-Expression Spotting | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3835222) | 2026-11 | Null |
 | Normalization, Fusion, and Decoupling: A Multi-feature Cross-Fusion Framework for Domain-Generalized Micro-Expression Action Unit Recognition | [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/11735232) | 2026-10 | Null |
 | Revisiting the Volumetric Data of 4DME: Compression, Extension and Benchmarking for Micro-expression Analysis | [ECCV 2026](https://link.springer.com/chapter/10.1007/978-3-032-37553-7_19) | 2026-09 | [code](https://github.com/1nO1SB/4DMEplus) |
 | R2-MER: Micro-Expression Recognition Via Region-Aware Reconstruction and Modality-Aware Fusion | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11702790) | 2026-09 | Null |
