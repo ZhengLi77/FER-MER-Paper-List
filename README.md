@@ -129,7 +129,6 @@
 ## <a id="micro-expression-recognition">1.2 Micro Expression Recognition</a>
 | Title | Literature Source | Date | Code |
 | :---: | :---: |  :---: | :---: |
-
 | Where and How Well: Reliability-Guided Dual-View Displacement Learning for Micro-Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3835519) | 2026-11 | Null |
 | Point Cloud based Low-Rank Micro-Dynamic Modeling for 4D Micro-Expression Recognition | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3836029) | 2026-11 | Null |
 | AV-SyncME: Physics-Driven Audio-Visual Gating for In-the-Wild Micro-Expression Spotting | [ACM MM 2026](https://dl.acm.org/doi/10.1145/3767308.3835222) | 2026-11 | Null |
